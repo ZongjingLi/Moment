@@ -4,7 +4,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Moment"
+name = "moment"
 version = "0.1.0"
 description = "information in a moment"
 readme = "README.md"
